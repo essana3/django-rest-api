@@ -1,0 +1,6 @@
+[flake8]
+exclude =
+  migrations
+  __pycache
+  manage.__py
+  settings.py
